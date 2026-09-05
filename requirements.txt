@@ -1,1 +1,1 @@
-pyvesync
+pyvesync==2.1.18
